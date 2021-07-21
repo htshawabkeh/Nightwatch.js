@@ -1,0 +1,13 @@
+{
+  "SearchArabicName": "الرجاء أدخل الرقم الخاص بالشحنه",
+  "TestValue": "Wolf",
+  "Pause": 3000,
+  "Num":2,
+  "ValidTrackNum": "34172147562365",
+  "InvalidTrackNum": "34151904217970000",
+  "CancelledTrackNum": "34124571209996",
+  "InvalidTextMsg": "This tracking number is invalid.",
+  "CancelledTextMsg": "CANCELLED",
+  "ValidAddress": "Al Asayel Steet"
+
+}
